@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcsjlNtBJqbkDCQxOa5NHZxJLHldgg1Kc2PNDoGArweljM4fU+gcyD8UXNcD0JWKxoNNjmDiwn57SmDMAB0GkA==",
+  "success": true,
+  "projectFilePath": "D:\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
